@@ -1,0 +1,1 @@
+A toy deep learning framework inspired by Tensorflow (https://github.com/tensorflow/tensorflow/)
